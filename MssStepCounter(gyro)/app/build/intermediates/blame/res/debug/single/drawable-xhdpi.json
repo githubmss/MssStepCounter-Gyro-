@@ -12,6 +12,10 @@
         "source": "/home/deepakgupta/Videos/MssStepCounter(gyro)/mssstepcounter-gyro/MssStepCounter(gyro)/app/src/main/res/drawable-xhdpi/mss.png"
     },
     {
+        "merged": "/home/deepakgupta/Videos/git_mssstepcounter/MssStepCounter-Gyro-/MssStepCounter(gyro)/app/build/intermediates/res/merged/debug/drawable-xhdpi/splash.png",
+        "source": "/home/deepakgupta/Videos/git_mssstepcounter/MssStepCounter-Gyro-/MssStepCounter(gyro)/app/src/main/res/drawable-xhdpi/splash.png"
+    },
+    {
         "merged": "/home/deepakgupta/Videos/Mss Step Counter/android-step-counter-master1/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
         "source": "/home/deepakgupta/Videos/Mss Step Counter/android-step-counter-master1/app/src/main/res/drawable-xhdpi/ic_launcher.png"
     },
@@ -24,7 +28,15 @@
         "source": "/home/deepakgupta/Videos/Mss Step Counter/android-step-counter-master1/app/src/main/res/drawable-xhdpi/splash.png"
     },
     {
+        "merged": "/home/deepakgupta/Videos/git_mssstepcounter/MssStepCounter-Gyro-/MssStepCounter(gyro)/app/build/intermediates/res/merged/debug/drawable-xhdpi/mss.png",
+        "source": "/home/deepakgupta/Videos/git_mssstepcounter/MssStepCounter-Gyro-/MssStepCounter(gyro)/app/src/main/res/drawable-xhdpi/mss.png"
+    },
+    {
         "merged": "/home/deepakgupta/Videos/Mss Step Counter/android-step-counter-master1/app/build/intermediates/res/merged/debug/drawable-xhdpi/mss.png",
         "source": "/home/deepakgupta/Videos/Mss Step Counter/android-step-counter-master1/app/src/main/res/drawable-xhdpi/mss.png"
+    },
+    {
+        "merged": "/home/deepakgupta/Videos/git_mssstepcounter/MssStepCounter-Gyro-/MssStepCounter(gyro)/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
+        "source": "/home/deepakgupta/Videos/git_mssstepcounter/MssStepCounter-Gyro-/MssStepCounter(gyro)/app/src/main/res/drawable-xhdpi/ic_launcher.png"
     }
 ]

@@ -24,6 +24,42 @@
         ]
     },
     {
+        "outputFile": "/home/deepakgupta/Videos/git_mssstepcounter/MssStepCounter-Gyro-/MssStepCounter(gyro)/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 59,
+                    "endOffset": 110
+                },
+                "from": {
+                    "file": "/home/deepakgupta/Videos/git_mssstepcounter/MssStepCounter-Gyro-/MssStepCounter(gyro)/app/src/main/res/values/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 115,
+                    "endColumn": 61,
+                    "endOffset": 172
+                },
+                "from": {
+                    "file": "/home/deepakgupta/Videos/git_mssstepcounter/MssStepCounter-Gyro-/MssStepCounter(gyro)/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 115,
+                        "endColumn": 61,
+                        "endOffset": 172
+                    }
+                }
+            }
+        ]
+    },
+    {
         "outputFile": "/home/deepakgupta/Videos/MssStepCounter(gyro)/mssstepcounter-gyro/MssStepCounter(gyro)/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
         "map": [
             {

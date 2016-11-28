@@ -9,8 +9,8 @@ import android.widget.TextView;
 
 public class CounterActivity extends Activity implements SensorEventListener {
 
-    private SensorManager sensorManager;
-    private TextView count;
+    private SensorManager mSensorManager;
+    private TextView mCount;
     boolean activityRunning;
     TextView txtName;
     ImageButton imgIcon;
@@ -19,24 +19,23 @@ public class CounterActivity extends Activity implements SensorEventListener {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
-        count = (TextView) findViewById(R.id.count);
+        mCount = (TextView) findViewById(R.id.count);
         imgIcon = (ImageButton) findViewById(R.id.ibtn_back);
         imgIcon.setImageResource(R.drawable.mss);
         txtName = (TextView) findViewById(R.id.txt_edit);
         txtName.setText(getResources().getString(R.string.app_name));
-        sensorManager = (SensorManager) getSystemService(Context.SENSOR_SERVICE);
+        mSensorManager = (SensorManager) getSystemService(Context.SENSOR_SERVICE);
     }
 
     @Override
     protected void onResume() {
         super.onResume();
         activityRunning = true;
-        Sensor countSensor = sensorManager.getDefaultSensor(Sensor.TYPE_STEP_COUNTER);
+        Sensor countSensor = mSensorManager.getDefaultSensor(Sensor.TYPE_STEP_COUNTER);
         if (countSensor != null) {
-            sensorManager.registerListener(this, countSensor, SensorManager.SENSOR_DELAY_UI);
+            mSensorManager.registerListener(this, countSensor, SensorManager.SENSOR_DELAY_UI);
         } else {
-//          Toast.makeText(this, "Count sensor not available!", Toast.LENGTH_LONG).show();
-            count.setText("Device not Compatible");
+            mCount.setText(getResources().getString(R.string.device_cmpt));
         }
 
     }
@@ -46,13 +45,13 @@ public class CounterActivity extends Activity implements SensorEventListener {
         super.onPause();
         activityRunning = false;
         // if you unregister the last listener, the hardware will stop detecting step events
-//        sensorManager.unregisterListener(this); 
+//        mSensorManager.unregisterListener(this);
     }
 
     @Override
     public void onSensorChanged(SensorEvent event) {
         if (activityRunning) {
-            count.setText(String.valueOf(event.values[0]));
+            mCount.setText(String.valueOf(event.values[0]));
         }
 
     }
