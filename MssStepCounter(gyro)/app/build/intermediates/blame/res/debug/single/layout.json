@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/deepakgupta/Videos/Mss Step Counter/android-step-counter-master1/app/build/intermediates/res/merged/debug/layout/custom_toolbar.xml",
+        "source": "/home/deepakgupta/Videos/Mss Step Counter/android-step-counter-master1/app/src/main/res/layout/custom_toolbar.xml"
+    },
+    {
+        "merged": "/home/deepakgupta/Videos/MssStepCounter(gyro)/mssstepcounter-gyro/MssStepCounter(gyro)/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/home/deepakgupta/Videos/MssStepCounter(gyro)/mssstepcounter-gyro/MssStepCounter(gyro)/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/home/dinesh/Videos/Step_counter/android-step-counter-master1/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/home/dinesh/Videos/Step_counter/android-step-counter-master1/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/home/deepakgupta/Videos/Mss Step Counter/android-step-counter-master1/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/home/deepakgupta/Videos/Mss Step Counter/android-step-counter-master1/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/home/deepakgupta/Videos/MssStepCounter(gyro)/mssstepcounter-gyro/MssStepCounter(gyro)/app/build/intermediates/res/merged/debug/layout/custom_toolbar.xml",
+        "source": "/home/deepakgupta/Videos/MssStepCounter(gyro)/mssstepcounter-gyro/MssStepCounter(gyro)/app/src/main/res/layout/custom_toolbar.xml"
+    },
+    {
+        "merged": "/home/deepakgupta/Videos/MssStepCounter(gyro)/mssstepcounter-gyro/MssStepCounter(gyro)/app/build/intermediates/res/merged/debug/layout/activity_splash.xml",
+        "source": "/home/deepakgupta/Videos/MssStepCounter(gyro)/mssstepcounter-gyro/MssStepCounter(gyro)/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/home/deepakgupta/Videos/Mss Step Counter/android-step-counter-master1/app/build/intermediates/res/merged/debug/layout/activity_splash.xml",
+        "source": "/home/deepakgupta/Videos/Mss Step Counter/android-step-counter-master1/app/src/main/res/layout/activity_splash.xml"
+    }
+]

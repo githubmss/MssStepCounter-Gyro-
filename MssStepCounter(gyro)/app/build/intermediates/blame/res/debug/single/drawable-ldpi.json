@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/deepakgupta/Videos/Mss Step Counter/android-step-counter-master1/app/build/intermediates/res/merged/debug/drawable-ldpi/ic_launcher.png",
+        "source": "/home/deepakgupta/Videos/Mss Step Counter/android-step-counter-master1/app/src/main/res/drawable-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/dinesh/Videos/Step_counter/android-step-counter-master1/app/build/intermediates/res/merged/debug/drawable-ldpi/ic_launcher.png",
+        "source": "/home/dinesh/Videos/Step_counter/android-step-counter-master1/app/src/main/res/drawable-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/deepakgupta/Videos/MssStepCounter(gyro)/mssstepcounter-gyro/MssStepCounter(gyro)/app/build/intermediates/res/merged/debug/drawable-ldpi/ic_launcher.png",
+        "source": "/home/deepakgupta/Videos/MssStepCounter(gyro)/mssstepcounter-gyro/MssStepCounter(gyro)/app/src/main/res/drawable-ldpi/ic_launcher.png"
+    }
+]

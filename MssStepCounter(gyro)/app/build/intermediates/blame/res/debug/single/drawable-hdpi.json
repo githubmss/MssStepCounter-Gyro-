@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/deepakgupta/Videos/MssStepCounter(gyro)/mssstepcounter-gyro/MssStepCounter(gyro)/app/build/intermediates/res/merged/debug/drawable-hdpi/mss.png",
+        "source": "/home/deepakgupta/Videos/MssStepCounter(gyro)/mssstepcounter-gyro/MssStepCounter(gyro)/app/src/main/res/drawable-hdpi/mss.png"
+    },
+    {
+        "merged": "/home/deepakgupta/Videos/MssStepCounter(gyro)/mssstepcounter-gyro/MssStepCounter(gyro)/app/build/intermediates/res/merged/debug/drawable-hdpi/splash.png",
+        "source": "/home/deepakgupta/Videos/MssStepCounter(gyro)/mssstepcounter-gyro/MssStepCounter(gyro)/app/src/main/res/drawable-hdpi/splash.png"
+    },
+    {
+        "merged": "/home/deepakgupta/Videos/Mss Step Counter/android-step-counter-master1/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/home/deepakgupta/Videos/Mss Step Counter/android-step-counter-master1/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/deepakgupta/Videos/MssStepCounter(gyro)/mssstepcounter-gyro/MssStepCounter(gyro)/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/home/deepakgupta/Videos/MssStepCounter(gyro)/mssstepcounter-gyro/MssStepCounter(gyro)/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/deepakgupta/Videos/Mss Step Counter/android-step-counter-master1/app/build/intermediates/res/merged/debug/drawable-hdpi/mss.png",
+        "source": "/home/deepakgupta/Videos/Mss Step Counter/android-step-counter-master1/app/src/main/res/drawable-hdpi/mss.png"
+    },
+    {
+        "merged": "/home/deepakgupta/Videos/Mss Step Counter/android-step-counter-master1/app/build/intermediates/res/merged/debug/drawable-hdpi/splash.png",
+        "source": "/home/deepakgupta/Videos/Mss Step Counter/android-step-counter-master1/app/src/main/res/drawable-hdpi/splash.png"
+    }
+]
