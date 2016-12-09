@@ -1,30 +1,6 @@
 [
     {
-        "outputFile": "/home/dinesh/Videos/Step_counter/android-step-counter-master1/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 52,
-                    "endOffset": 103
-                },
-                "from": {
-                    "file": "/home/dinesh/Videos/Step_counter/android-step-counter-master1/app/src/main/res/values/strings.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 55,
-                        "endColumn": 52,
-                        "endOffset": 103
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "/home/deepakgupta/Videos/git_mssstepcounter/MssStepCounter-Gyro-/MssStepCounter(gyro)/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "outputFile": "/home/deepakgupta/Videos/git_MssStepCounter/MssStepCounter-Gyro-/MssStepCounter(gyro)/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
         "map": [
             {
                 "to": {
@@ -35,7 +11,14 @@
                     "endOffset": 110
                 },
                 "from": {
-                    "file": "/home/deepakgupta/Videos/git_mssstepcounter/MssStepCounter-Gyro-/MssStepCounter(gyro)/app/src/main/res/values/strings.xml"
+                    "file": "/home/deepakgupta/Videos/git_MssStepCounter/MssStepCounter-Gyro-/MssStepCounter(gyro)/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 59,
+                        "endOffset": 110
+                    }
                 }
             },
             {
@@ -47,61 +30,13 @@
                     "endOffset": 172
                 },
                 "from": {
-                    "file": "/home/deepakgupta/Videos/git_mssstepcounter/MssStepCounter-Gyro-/MssStepCounter(gyro)/app/src/main/res/values/strings.xml",
+                    "file": "/home/deepakgupta/Videos/git_MssStepCounter/MssStepCounter-Gyro-/MssStepCounter(gyro)/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
                         "startOffset": 115,
                         "endColumn": 61,
                         "endOffset": 172
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "/home/deepakgupta/Videos/MssStepCounter(gyro)/mssstepcounter-gyro/MssStepCounter(gyro)/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 59,
-                    "endOffset": 110
-                },
-                "from": {
-                    "file": "/home/deepakgupta/Videos/MssStepCounter(gyro)/mssstepcounter-gyro/MssStepCounter(gyro)/app/src/main/res/values/strings.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 55,
-                        "endColumn": 59,
-                        "endOffset": 110
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "/home/deepakgupta/Videos/Mss Step Counter/android-step-counter-master1/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 59,
-                    "endOffset": 110
-                },
-                "from": {
-                    "file": "/home/deepakgupta/Videos/Mss Step Counter/android-step-counter-master1/app/src/main/res/values/strings.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 55,
-                        "endColumn": 59,
-                        "endOffset": 110
                     }
                 }
             }

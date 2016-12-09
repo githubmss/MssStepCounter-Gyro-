@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi,armeabi-v7a"
+    api-level="22"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.1"
+    timestamp="17282674892748"
+    token="6007952433299595803"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="693" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="109" />
+    <task
+        name="verifier"
+        duration="2" />
+
+    <artifact
+        location="/home/deepakgupta/Videos/git_MssStepCounter/MssStepCounter-Gyro-/MssStepCounter(gyro)/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="17282674892748"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/home/deepakgupta/Videos/git_MssStepCounter/MssStepCounter-Gyro-/MssStepCounter(gyro)/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

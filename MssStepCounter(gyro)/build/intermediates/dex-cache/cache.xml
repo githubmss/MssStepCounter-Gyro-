@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/deepakgupta/Videos/git_MssStepCounter/MssStepCounter-Gyro-/MssStepCounter(gyro)/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d168661e07d2c572a0d7ecc0e75ab0e926eb67f8">
+        <dex dex="/home/deepakgupta/Videos/git_MssStepCounter/MssStepCounter-Gyro-/MssStepCounter(gyro)/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_10aea3425d92d323585c7c1f6af80b5bf958f7dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/deepakgupta/Videos/git_MssStepCounter/MssStepCounter-Gyro-/MssStepCounter(gyro)/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7cdca42e9f769269c1c79dec90bd46bc853cbbc2">
+        <dex dex="/home/deepakgupta/Videos/git_MssStepCounter/MssStepCounter-Gyro-/MssStepCounter(gyro)/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5400c930e66a1acaa0a3bdff9dcc10701031f508/classes.dex" />
+    </item>
+
+</items>
